@@ -1,0 +1,3 @@
+sqlparse
+# For type hints (if using Python <3.9)
+typing-extensions 
